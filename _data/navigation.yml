@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "블로그 소개"
     url: /info/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "디스코드 봇"
+    url: /categories/discord/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -4,6 +4,7 @@ excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
   - Blog
+  - discord
 tags:
   - Blog
 last_modified_at: 2020-07-08T08:06:00-05:00
