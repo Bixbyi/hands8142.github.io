@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "동준"
 description              : "고등학교를 다니고 취미로 코딩하고 있는 동준이의 블로그"
-url                      : "https://hands8142.github.io"
+url                      : "https://dongz.ml"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/dong.png"
