@@ -17,12 +17,12 @@ last_modified_at: 2020-07-09T08:49:00+09:00
 
 ## event를 활용한 예제
 
-
+```py
 import discord #모듈
 
 client = discord.Client()
 
-```py
+
 @client.event
 async def on_ready():
     print("다음으로 로그인합니다")
