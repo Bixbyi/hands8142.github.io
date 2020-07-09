@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/dong.png"
   bio              : "고등학교를 다니고 취미로 코딩하는 동준이의 블로그"
   location         : "South Korea"
-  email            : "hands81425@gamil.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
