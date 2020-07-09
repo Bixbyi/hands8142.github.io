@@ -17,12 +17,12 @@ last_modified_at: 2020-07-09T08:49:00+09:00
 
 ## event를 활용한 예제
 
-<code>
+
 import discord #모듈
 
 client = discord.Client()
 
-
+```py
 @client.event
 async def on_ready():
     print("다음으로 로그인합니다")
@@ -57,11 +57,12 @@ async def on_message(message):
 
 
 client.run("TOKEN")
-</code>
+```
+
 
 ## command를 이용한 예제
 
-<code>
+```py
 import discord #모듈
 from discord.ext import commands
 
@@ -102,7 +103,7 @@ async def embed(ctx):
     await ctx.send(embed=embed)
                                  
 client.run("TOKEN")
-</code>
+```
 
 ## 저의 생각
 
