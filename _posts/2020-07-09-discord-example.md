@@ -11,6 +11,7 @@ categories:
 tags:
   - discord
   - example
+  - python
 last_modified_at: 2020-07-09T08:49:00+09:00
 ---
 
