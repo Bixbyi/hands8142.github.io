@@ -1,6 +1,6 @@
 ---
-title:  "discord.py permissions 넣기"
-excerpt: "permissions 넣기"
+title:  "discord.py permissions 권한 넣기"
+excerpt: "permissions 권한 넣기"
 
 toc: true
 toc_sticky: true
@@ -14,7 +14,7 @@ tags:
   - python
   - utility
   - permissions
-last_modified_at: 2020-07-12T19:11:00+09:00
+last_modified_at: 2020-07-12T01:12:00+09:00
 ---
 
 이강의는 전강의와 이어집니다.
@@ -25,7 +25,6 @@ last_modified_at: 2020-07-12T19:11:00+09:00
 ```
 이구문을 추가하여 관리자만 할 수 있게 바꾸어 줍니다.
 일단 추방명령어에 넣어 보도록 하겠습니다.
-예:
 ```py
 @client.command(name="추방", pass_context=True)
 @commands.has_permissions(administrator=True)
