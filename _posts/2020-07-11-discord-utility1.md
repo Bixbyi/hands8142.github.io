@@ -1,6 +1,6 @@
 ---
-title:  "discord.py 유틸리티 1"
-excerpt: "유틸리티 추가 방법"
+title:  "discord.py kick, ban, unban 활용"
+excerpt: "kick, ban, unban"
 
 toc: true
 toc_sticky: true
