@@ -17,7 +17,7 @@ tags:
 last_modified_at: 2020-07-12T01:12:00+09:00
 ---
 
-이 강의는 전 강의와 이어집니다.
+이 강의는 전 강의와 이어집니다. - [링크](https://dongz.ml/discord/discord-utility1)
 
 ## permissions 활용하기
 ```py
