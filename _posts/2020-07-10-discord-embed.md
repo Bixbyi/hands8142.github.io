@@ -1,5 +1,5 @@
 ---
-title:  "discord.py embed"
+title:  "discord.py embed 사용하기"
 excerpt: "embed 설명"
 
 toc: true
